@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @programmerajay
 - 👀 I’m interested in webdevelopment
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me mail me to:ajaymcc763@gmail.com
 
 <!---
 programmerajay/programmerajay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
