@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @programmerajay
-- 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning React
+- 👋 Hi, I’m Ajay I 
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React and Node.js
+- Foccusing on Data structrues and Algorithms....
 - 📫 How to reach me mail me to:ajaymcc763@gmail.com
 
 <!---
